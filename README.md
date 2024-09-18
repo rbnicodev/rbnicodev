@@ -5,8 +5,7 @@
 📞 **Teléfono**: +34 684 096 119  
 📧 **Email**: [rubenmsanchis.dev@gmail.com](mailto:rubenmsanchis.dev@gmail.com)  
 📍 **Ubicación**: Elda (Alicante), España  
-🔗 **LinkedIn**: [linkedin.com/in/rbnicodev](https://www.linkedin.com/in/rbnicodev/)  
-🔗 **GitHub**: [github.com/rbnicodev](https://github.com/rbnicodev)
+🔗 **LinkedIn**: [linkedin.com/in/rbnicodev](https://www.linkedin.com/in/rbnicodev/) 
 
 ---
 
