@@ -9,7 +9,7 @@
 
 ---
 
-## 🚀 Experiencia Profesional
+## 🚀 Professional experience
 
 ### **TICH Consulting S.L – ASISA (Alicante)**  
 **Abril 2024 – Actualidad**  
@@ -35,7 +35,7 @@
 
 ---
 
-## 💡 Habilidades Técnicas
+## 💡 Hard Skills
 
 ### **Backend**:
 - **Java**: ███████████████░░░░░  
