@@ -29,7 +29,7 @@
 ### **Teralco Solutions S.L (Elche, Alicante)**  
 **Marzo 2022 – Marzo 2023**  
 **Software Developer**  
-- Desarrollo de microservicios y APIs RESTful con **Spring Boot**.
+- Desarrollo de microservicios y APIs RESTful con **Spring Boot** y **Jakarta**.
 - Optimización de consultas en **PostgreSQL** y **MongoDB**.
 - Gestión de aplicaciones con **Docker** y **Jenkins**.
 
